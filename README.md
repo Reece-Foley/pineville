@@ -2,4 +2,4 @@
 Custom shaded relief map for Pineville Ky
 
 ![Shaded map of pineville](Layout.jpg)
-[Link to geospatial PDF]()
+[Link to geospatial PDF](Layout.pdf)
